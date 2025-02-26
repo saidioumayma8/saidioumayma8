@@ -13,7 +13,7 @@ I'm a passionate **Java EE developer** currently working on web applications wit
 - **Tools:** VS Code, Eclipse, Tomcat  
 
 ### 📫 Connect with Me:
-- [LinkedIn](your-linkedin-profile)
+- [LinkedIn](www.linkedin.com/in/oumayma-saidi-756452247)
 - [GitHub](https://github.com/saidioumayma8)
 
 <!--
