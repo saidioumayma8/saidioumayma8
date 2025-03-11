@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [TalentFlow recruitment app](TalentFlow recruitment app)
+- 🔭 I’m currently working on [TalentFlow recruitment app](https://github.com/saidioumayma8/OffreEmploi.git)
 
 - 🌱 I’m currently learning **Java, Spring Core, Dependency Injection, Java EE, MySQL**
 
